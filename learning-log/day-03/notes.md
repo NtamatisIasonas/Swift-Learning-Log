@@ -1,5 +1,7 @@
 ## Third Day's notes:
 
+## $Tutorial followed made by: freeCodeCamp.org$ thanks to their amazing tutorials I now know a bit more than nothing on OpenGL
+
 ---
 
 ## Log-1:
